@@ -1,0 +1,15 @@
+{
+  "name": "tesina_scaloni_filippo_5c",
+  "version": "1.0.0",
+  "description": "a simple server with node.js, express and socket.io to play chess.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Filippo Scaloni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
